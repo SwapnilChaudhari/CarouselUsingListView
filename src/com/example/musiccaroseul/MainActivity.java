@@ -101,7 +101,7 @@ public class MainActivity extends Activity
 			@Override
 			public void onScrollStateChanged(AbsListView view, int scrollState) {
 				
-				//this.scrollState=scrollState;
+				
 				if(scrollState==OnScrollListener.SCROLL_STATE_IDLE)
 				{
 					Log.v("Tag", "changed ");
