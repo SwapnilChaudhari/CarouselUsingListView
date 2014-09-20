@@ -55,7 +55,7 @@ public class MainActivity extends Activity
 		{
 		
 			firstVisible=(int) (y/(childHight));
-			Log.v("Tag", "changed OnCustomListViewScrollChange");
+
 			
 			
 			
